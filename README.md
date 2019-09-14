@@ -17,8 +17,10 @@ Pada modul kali ini saya belajar banyak tentang ScrollingWidget(ListView, GridVi
 >- Kamu bisa gunakan widget InkWell untuk membungkus item (Card/Image/semacamnya) agar item dapat menerima fungsi sentuhan (onTap, >onLongPress, onDoubleTap, dll).
 
 ### Screenshot
+
 #### Main Menu
 <img src="https://pbs.twimg.com/media/EEaIpHtUYAEtlAJ?format=jpg&name=large" width="270" height="480" />
+
 #### Detail Item
 <img src="https://pbs.twimg.com/media/EEaIpHtU4AEp4V7?format=jpg&name=large" width="270" height="480" />
 
